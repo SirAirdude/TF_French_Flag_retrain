@@ -1,0 +1,26 @@
+<annotation>
+	<folder>newpic</folder>
+	<filename>images (19).jpg</filename>
+	<path>/home/bt-intern1/Desktop/newpic/images (19).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>French Flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>7</ymin>
+			<xmax>201</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+</annotation>
