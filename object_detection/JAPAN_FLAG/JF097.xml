@@ -1,0 +1,98 @@
+<annotation>
+	<folder>JAPAN_FLAG</folder>
+	<filename>JF097.jpg</filename>
+	<path>/home/bt-intern4/TF_French_Flag_retrain/object_detection/JAPAN_FLAG/JF097.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>299</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Japanese Flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>68</ymin>
+			<xmax>160</xmax>
+			<ymax>84</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Japanese Flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>88</ymin>
+			<xmax>81</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Japanese Flag</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>1</ymin>
+			<xmax>43</xmax>
+			<ymax>17</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Japanese Flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>29</ymin>
+			<xmax>108</xmax>
+			<ymax>47</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Japanese Flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>15</ymin>
+			<xmax>119</xmax>
+			<ymax>33</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Japanese Flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>68</ymin>
+			<xmax>268</xmax>
+			<ymax>88</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Japanese Flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>54</ymin>
+			<xmax>279</xmax>
+			<ymax>72</ymax>
+		</bndbox>
+	</object>
+</annotation>

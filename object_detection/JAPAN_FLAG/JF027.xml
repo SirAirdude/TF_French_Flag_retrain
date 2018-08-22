@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JAPAN_FLAG</folder>
+	<filename>JF027.jpg</filename>
+	<path>/home/bt-intern4/TF_French_Flag_retrain/object_detection/JAPAN_FLAG/JF027.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Japanese Flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>22</ymin>
+			<xmax>204</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Japanese Flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>21</ymin>
+			<xmax>112</xmax>
+			<ymax>125</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JOLLY_ROGER</folder>
+	<filename>JRF006.jpg</filename>
+	<path>/home/bt-intern4/TF_French_Flag_retrain/object_detection/JOLLY_ROGER/JRF006.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>348</width>
+		<height>145</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jolly Roger Flag</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>2</ymin>
+			<xmax>272</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>
